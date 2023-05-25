@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.cdnfonts.com/css/lucida-handwriting-std" rel="stylesheet">
+                
+        <title>The world through my eyes</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>The world seen through my eyes</h1>
+        <div class="box"></div>
+    </body>
+</html>
